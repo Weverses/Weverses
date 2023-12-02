@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 # 💻 Environment
 [![Windows 11](https://img.shields.io/badge/Windows11-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10) 
 
-[![Android 14](https://img.shields.io/badge/Android13-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-14/) 
+[![Android 14](https://img.shields.io/badge/Android14-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-14/) 
 
 # 📱 Devices 
 [![Xiaomi 10 Ultra](https://img.shields.io/badge/Xiaomi%2010%20Ultra-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi10ultra)
