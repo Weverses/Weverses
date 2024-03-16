@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 # 📱 Devices 
 [![Xiaomi 10 Ultra](https://img.shields.io/badge/Xiaomi%2010%20Ultra-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi10ultra)
-[![Xiaomi Civi](https://img.shields.io/badge/Xiaomi%2010%20Ultra-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomicivi)
+[![Xiaomi Civi-mona](https://img.shields.io/badge/Xiaomi%20Civi-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomicivi)
 
