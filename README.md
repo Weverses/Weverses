@@ -24,15 +24,15 @@ Here are some ideas to get you started:
 ![](https://count.getloli.com/get/@weverses?theme=gelbooru)
 
 # 💻 Environment
-[![macOS Sequoia](https://img.shields.io/badge/macOS%2015%20Sequoia-0047AB?style=flat-square&logo=apple&logoColor=ffffff)](https://developer.apple.com/cn/macos/)
+[![macOS Tahoe](https://img.shields.io/badge/macOS%2026%20Tahoe-0047AB?style=flat-square&logo=apple&logoColor=ffffff)](https://developer.apple.com/cn/macos/)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%2024%2e04%20LTS-DD4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 
-[![Windows 11](https://img.shields.io/badge/Windows11-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11) 
+[![Windows 11](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11) 
 
-[![Android 15](https://img.shields.io/badge/Android15-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-15/) 
+[![Android 15](https://img.shields.io/badge/Android%2015-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-15/) 
 
-[![iOS 18](https://img.shields.io/badge/iOS%2018-0047AB?style=flat-square&logo=apple&logoColor=ffffff)](https://developer.apple.com/ios/)
+[![iOS 26](https://img.shields.io/badge/iOS%2026-0047AB?style=flat-square&logo=apple&logoColor=ffffff)](https://developer.apple.com/ios/)
 
 
 # 📱 Devices 
