@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11) 
 
-[![Android 16](https://img.shields.io/badge/Android%2015-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-15/) 
+[![Android 16](https://img.shields.io/badge/Android%2016-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-16/) 
 
 [![iOS 26](https://img.shields.io/badge/iOS%2026-0047AB?style=flat-square&logo=apple&logoColor=ffffff)](https://developer.apple.com/ios/)
 
